@@ -13,6 +13,6 @@ Hi, I'm Pradyumn 👋  <br><br>I’m a Software Engineer currently working at th
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradumn028&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pradumn Yadav&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Pradumn028&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
